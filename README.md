@@ -44,7 +44,7 @@ Url = http://192.168.1.50/
 
 Backpup Foder = /backup_dir
 
-Backpup Script = /backup_dir#/backup_dir
+Backpup Script = /backup_dir
 
 Backup /www_dir = Lunes, miércoles y viernes a las 23:00
 
