@@ -16,7 +16,7 @@ Grupo 7
 
 iface enp0s3 inet static
 
- address 192.168.1.50
+ address 192.168.1.30
  
  netmask 255.255.255.0
  
@@ -38,7 +38,7 @@ dbname = "ingenieria"
 
 DocumentRoot = /www_dir
 
-Url = http://192.168.1.50/
+Url = http://192.168.1.30/
 
 ## Configuración de Backups
 
